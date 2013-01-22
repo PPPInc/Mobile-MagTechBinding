@@ -2,6 +2,7 @@ using System;
 
 namespace magTechBinding
 {
+	//enums from SDK
 	public enum UmRet { 
 		UMRET_SUCCESS, 
 		UMRET_NO_READER, 
