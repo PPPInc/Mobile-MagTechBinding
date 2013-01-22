@@ -68,7 +68,7 @@ namespace magTechBinding
 	// For more information, see http://docs.xamarin.com/ios/advanced_topics/binding_objective-c_types
 	//
 
-
+	//Defs from SDK
 	[BaseType (typeof(NSObject))]
 	interface uniMag
 	{
